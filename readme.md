@@ -1,3 +1,9 @@
+## Forked to use LESS 3.x
+
+No other changes have been made so far.
+
+## Original documentation
+
 This middleware was created to allow processing of [Less](http://lesscss.org) files for [Connect JS](http://www.senchalabs.org/connect/) framework and by extension the [Express JS](http://expressjs.com/) framework.
 
 [![CircleCI](https://circleci.com/gh/emberfeather/less.js-middleware.svg?style=svg)](https://circleci.com/gh/emberfeather/less.js-middleware)
